@@ -1,2 +1,2 @@
 # Senior-Design
-STORM Tennis Ball Tracking
+STORM - Small Target Observation and Recognition Module
